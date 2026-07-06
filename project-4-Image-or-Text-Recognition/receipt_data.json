@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "name": "BANANA",
+            "qty": 2.0,
+            "price": 22.0,
+            "total": 44.0
+        },
+        {
+            "name": "van MANGO",
+            "qty": 15.0,
+            "price": 100.0,
+            "total": 150.0
+        },
+        {
+            "name": "COMBO MIX",
+            "qty": 3.0,
+            "price": 20.0,
+            "total": 60.0
+        }
+    ],
+    "grand_total": 2543.0
+}
